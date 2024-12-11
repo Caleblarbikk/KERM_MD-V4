@@ -23,3 +23,4 @@ OWNER_REACT: process.env.OWNER_REACT || "false",
 BOT_NAME: process.env.BOT_NAME || "➺『𝗞𝗘𝗥𝗠 𝗠𝗗 𝗩4』࿐",
 OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39", // omdbapi.com
 };
+HACK_CONTACT: PROCESS.ENV.HACK_CONTACT || "true" 
